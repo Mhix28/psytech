@@ -296,9 +296,9 @@ EOM
 cat <<\EOM >/etc/openvpn/script/config.sh
 #!/bin/bash
 HOST='185.61.137.174'
-USER='pinoyvpn2_mtkudp'
-PASS='mtkudp00'
-DB='pinoyvpn2_mtkudp'
+USER='pinoyvpn2_mtkpromo'
+PASS='mtkpromo00'
+DB='pinoyvpn2_mtkpromo'
 EOM
 
 cat <<\EOM >/etc/openvpn/script/connect.sh
