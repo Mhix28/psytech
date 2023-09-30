@@ -296,9 +296,9 @@ EOM
 cat <<\EOM >/etc/openvpn/script/config.sh
 #!/bin/bash
 HOST='185.61.137.174'
-USER='pinoyvpn2_mtkpromo'
+USER='firenetv_mtkpromo'
 PASS='mtkpromo00'
-DB='pinoyvpn2_mtkpromo'
+DB='firenetv_mtkpromo'
 EOM
 
 cat <<\EOM >/etc/openvpn/script/connect.sh
